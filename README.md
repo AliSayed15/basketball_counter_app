@@ -4,13 +4,16 @@ A simple yet powerful basketball score tracking application built with Flutter, 
 
 📌 Overview
 
+
 The Basketball Counter App is a mobile application that allows users to track scores for two teams during a basketball game. It focuses on simplicity, performance, and usability, making it ideal for quick matches, training sessions, or casual gameplay.
+
 
 This project demonstrates practical usage of Flutter UI design and state management using Cubit (BLoC).
 
+
 ✨ Features
 ➕ Add points (1, 2, 3) for each team
-🔄 Reset scores instantly
+🔄 Reset scores instantl
 ⚡ Real-time UI updates using state management
 🎯 Clean and responsive user interface
 🧠 Built with Cubit for efficient state handling
